@@ -1,4 +1,5 @@
 # Initially taken from GitHub's Python gitignore file
+scripts/convertibles/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
